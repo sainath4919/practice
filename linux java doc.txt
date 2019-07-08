@@ -1,0 +1,12 @@
+
+export JAVA_HOME="/opt/jdk1.8.0_211"
+export PATH=$JAVA_HOME/bin:$PATH
+
+export CATALINA_HOME="/opt/apache-tomcat-7.0.94"
+export PATH=$CATALINA_HOME/bin:$PATH
+
+export ANT_HOME="/opt/apache-ant-1.9.14"
+export PATH=$ANT_HOME/bin:$PATH
+
+export M2_HOME="/opt/"apache-maven-3.6.1"
+export PATH=$M2_HOME/bin:$PATH

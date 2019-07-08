@@ -1,0 +1,348 @@
+[22:11.48.190]  
+[22:11.48.190]  BEGIN AdaptToGlobalDPI
+[22:11.48.190]      AdaptToGlobalDPI: DPI=96
+[22:11.48.190]      BEGIN Loading flat icons (size=64)
+[22:11.48.190]          Uncompressing resource...
+[22:11.48.190]          Opening uncompressed resource
+[22:11.48.190]          Extracting icons to ImageList Im64
+[22:11.48.190]      END Loading flat icons (size=64)
+[22:11.48.190]      BEGIN Loading flat icons (size=16)
+[22:11.48.190]          Uncompressing resource...
+[22:11.48.206]          Opening uncompressed resource
+[22:11.48.206]          Extracting icons to ImageList Im16
+[22:11.48.305]      END Loading flat icons (size=16)
+[22:11.48.305]      BEGIN Loading flat icons (size=22)
+[22:11.48.305]          Uncompressing resource...
+[22:11.48.320]          Opening uncompressed resource
+[22:11.48.320]          Extracting icons to ImageList Im22
+[22:11.48.398]      END Loading flat icons (size=22)
+[22:11.48.398]  END AdaptToGlobalDPI
+[22:11.48.398]  
+[22:11.48.398]  BEGIN AddMobaConsoleFont
+[22:11.48.649]  END AddMobaConsoleFont
+[22:11.48.649]  
+[22:11.48.649]  - MobaXterm version: 11.1 Build 3860
+[22:11.48.649]  - Command line: "C:\Users\User\Desktop\MobaXterm_Personal_11.1.exe"
+[22:11.48.649]  - Date: 2019-05-28
+[22:11.48.649]  - Win32 version: 10.0.2.10240.
+[22:11.48.649]  - Windows architecture: 64-bits
+[22:11.48.649]  - Detected DPI: 96
+[22:11.48.649]  - Current DPI: 96
+[22:11.48.649]  - CurDir: C:\Users\User\Desktop\
+[22:11.48.649]  - PersonalDir: C:\Users\User\DOCUME~1\
+[22:11.48.649]  - AppDataDir: C:\Users\User\AppData\Roaming\
+[22:11.48.649]  - LocalAppDataDir: C:\Users\User\AppData\Local\
+[22:11.48.649]  - DesktopDir: C:\Users\User\Desktop\
+[22:11.48.649]  - MobaProfileDir: C:\Users\User\DOCUME~1\
+[22:11.48.649]  - Free space in MobaProfileDir folder: 25059MB
+[22:11.48.649]  - TempDir: C:\Users\User\AppData\Local\Temp\
+[22:11.48.649]  - Free space in TempDir folder: 25059MB
+[22:11.48.649]  - Monitor #0: 1366x768
+[22:11.48.649]  - User name: User
+[22:11.48.649]  - Computer name: DESKTOP-21465S8
+[22:11.48.649]  - Uptime: 0 days, 04:55:36
+[22:11.48.649]  - Windows PATH: C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_91\bin;C:\Users\User\Desktop\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\GitHubDesktop\bin
+[22:11.48.649]  - WSL not found
+[22:11.48.649]  
+[22:11.48.649]  BEGIN Form1.FormCreate
+[22:11.48.649]      Detecting installed/portable version
+[22:11.48.649]      --> portable version
+[22:11.48.649]      
+[22:11.48.649]      Detecting IniSettings
+[22:11.48.649]      An existing INI file has been detected in "C:\Users\User\DOCUME~1\MobaXterm\MobaXterm.ini".
+[22:11.48.649]      MobaXterm will use this path for INI file.
+[22:11.48.649]      MobaXterm will take its configuration from file "C:\Users\User\DOCUME~1\MobaXterm\MobaXterm.ini".
+[22:11.48.649]      WARNING: SELECTED INI FILE SEEMS TO BE READ-ONLY!
+[22:11.48.649]      --> IniSettings= C:\Users\User\DOCUME~1\MobaXterm\MobaXterm.ini
+[22:11.48.649]      
+[22:11.48.664]      Detecting CygUtils
+[22:11.48.664]      --> CygUtils NOT PRESENT
+[22:11.48.664]      --> Using CygPackage
+[22:11.48.664]      
+[22:11.48.664]      Detecting MobaXVTDir
+[22:11.48.664]      BEGIN IsFolderRW(C:\Users\User\AppData\Local\Temp\Mxt111)
+[22:11.48.664]          CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\drives, C:\Users\User\AppData\Local\Temp\Mxt111\cygdrive);
+[22:11.48.680]          CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\drives, C:\Users\User\AppData\Local\Temp\Mxt111\mnt);
+[22:11.48.680]          CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\drives, C:\Users\User\AppData\Local\Temp\Mxt111\media);
+[22:11.48.680]          CreateSymbolicLink(/proc/registry, C:\Users\User\AppData\Local\Temp\Mxt111\registry);
+[22:11.48.680]          !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\registry". The process cannot access the file because it is being used by another process during CreerLienSymb2
+[22:11.48.695]          CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\User\AppData\Local\Temp\Mxt111\mx86_64b\cygdrive);
+[22:11.48.695]          CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\User\AppData\Local\Temp\Mxt111\mx86_64b\mnt);
+[22:11.48.695]          CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\User\AppData\Local\Temp\Mxt111\mx86_64b\media);
+[22:11.48.695]          CreateSymbolicLink(/proc/registry, C:\Users\User\AppData\Local\Temp\Mxt111\mx86_64b\registry);
+[22:11.48.711]      END IsFolderRW(C:\Users\User\AppData\Local\Temp\Mxt111) --> OK
+[22:11.48.711]      --> MobaXVTDir= C:\Users\User\AppData\Local\Temp\Mxt111
+[22:11.48.711]      
+[22:11.48.711]      Detecting BinExeDir
+[22:11.48.711]      --> BinExeDir= C:\Users\User\AppData\Local\Temp\Mxt111\bin\
+[22:11.48.711]      --> SessionsDir= C:\Users\User\AppData\Local\Temp\Mxt111\tmp\sessions
+[22:11.48.711]      
+[22:11.48.711]      Detecting MobaXVTHomeDir
+[22:11.48.711]      --> MobaXVTHomeDir= C:\Users\User\AppData\Local\Temp\Mxt111\tmp\home_User
+[22:11.48.711]      
+[22:11.48.711]      Skin detection
+[22:11.48.711]      Skin selected:
+[22:11.48.711]      Set Application Title
+[22:11.48.742]      - Cygwin1.dll not detected in running applications.
+[22:11.48.742]      
+[22:11.48.742]      Process list:  dasHost.exe, igfxCUIService.exe, armsvc.exe, HidMonitorSvc.exe, BtwRSupportService.exe, K7TSMngr.exe, K7CrvSvc.exe, MsMpEng.exe, K7PSSrvc.exe, K7FWSrvc.exe, K7EmlPxy.exe, K7RTScan.exe, NisSrv.exe, PresentationFontCache.exe, SearchIndexer.exe, MpCmdRun.exe, sedsvc.exe, C:\Program Files\DellTPad\Apoint.exe, C:\Windows\System32\sihost.exe, C:\Windows\System32\taskhostw.exe, C:\Windows\System32\igfxEM.exe, C:\Windows\System32\igfxHK.exe, C:\Windows\System32\igfxTray.exe, C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe, ApMsgFwd.exe, C:\Program Files\DellTPad\hidfind.exe, C:\Program Files\DellTPad\ApntEx.exe, C:\Windows\System32\SettingSyncHost.exe, C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe, C:\Program Files (x86)\K7 Computing\K7TSecurity\K7TSecurity.exe, C:\Program Files (x86)\K7 Computing\K7TSecurity\K7SysMon.Exe, C:\Program Files (x86)\K7 Computing\K7TSecurity\K7TSReminder.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Windows\System32\ApplicationFrameHost.exe, C:\Program Files\WindowsApps\Microsoft.WindowsStore_2015.7.1.0_x64__8wekyb3d8bbwe\WinStore.Mobile.exe, C:\Windows\System32\wuapihost.exe, audiodg.exe, C:\Program Files (x86)\K7 Computing\K7TSecurity\K7TSReminder.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, D:\SuperPuTTY-1.4.0.8\SuperPutty.exe, C:\Program Files\PuTTY\putty.exe, C:\Program Files\PuTTY\putty.exe, C:\Program Files\PuTTY\putty.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32.exe, C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32.exe, C:\Program Files\Mozilla Firefox\firefox.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe, SearchProtocolHost.exe, SearchFilterHost.exe, C:\Users\User\Desktop\MobaXterm_Personal_11.1.exe, C:\Users\User\Desktop\MobaXterm_Personal_11.1.exe, fontdrvhost.exe
+[22:11.48.742]      
+[22:11.48.774]      
+[22:11.48.774]      BEGIN LoadExtensionsImageList
+[22:11.48.805]      END LoadExtensionsImageList
+[22:11.48.805]      
+[22:11.48.805]      BEGIN ReadCustomIcons
+[22:11.48.805]          No custom icon found.
+[22:11.48.805]      END ReadCustomIcons
+[22:11.48.805]      Generating icons list (size 16)
+[22:11.48.977]      Generating icons list (size 22)
+[22:11.49.164]      Generating icons list (size 64)
+[22:11.49.180]      Creating tray icon
+[22:11.49.180]      Loading skins
+[22:11.49.180]  END Form1.Create
+[22:11.49.180]  
+[22:11.49.180]  
+[22:11.49.180]  CREATING Form4
+[22:11.49.383]  BEGIN Form4.Create
+[22:11.49.399]      NbPingus = 4
+[22:11.49.399]      BEGIN LoadBookmarksFromIni
+[22:11.49.399]          FindOrCreateTreeFolders() (1)
+[22:11.49.399]          FindOrCreateTreeFolders(PuTTY sessions) (1)
+[22:11.49.399]          FindOrCreateTreeFolders(SuperPuTTY sessions) (1)
+[22:11.49.399]          FindOrCreateTreeFolders(SuperPuTTY sessions\ImportedFromPuTTY) (1)
+[22:11.49.399]      END LoadBookmarksFromIni
+[22:11.49.399]      BEGIN LoadMacrosFromIni
+[22:11.49.399]      END LoadMacrosFromIni
+[22:11.49.430]      Form4Create1
+[22:11.49.430]      Form4Create2
+[22:11.49.445]      BEGIN AdaptSidebarArrows
+[22:11.49.445]      END AdaptSidebarArrows
+[22:11.49.445]      Form4Create3
+[22:11.49.445]      GetMinWidth = 924
+[22:11.49.445]      GetMinHeight = 529
+[22:11.49.461]      Form4Create4
+[22:11.49.461]      IsNTFS(C:\) --> NTFS
+[22:11.49.461]      Slash drive is NTFS.
+[22:11.49.461]      Form4Create5
+[22:11.49.461]      Form4Create6
+[22:11.49.461]      Displaysidebarontheleft1Click: FormClick
+[22:11.49.461]      BEGIN AdaptSidebarArrows
+[22:11.49.461]      END AdaptSidebarArrows
+[22:11.49.461]      Form4Create7
+[22:11.49.461]      Form4Create8
+[22:11.49.461]      Form4Create9
+[22:11.49.461]      ShowButtonsbar1Click: FormClick
+[22:11.49.461]      Form4Create10
+[22:11.49.461]      Form4Create12
+[22:11.49.461]      SmallButtons1Click: FormClick
+[22:11.49.461]      GetMinWidth = 924
+[22:11.49.461]      GetMinHeight = 525
+[22:11.49.461]      Form4Create13
+[22:11.49.461]      Form4Create14
+[22:11.49.461]  END Form4.Create
+[22:11.49.461]  
+[22:11.49.461]  
+[22:11.49.461]  CREATING FormParams
+[22:11.49.805]  BEGIN TFormParams.FormCreate
+[22:11.49.836]  END TFormParams.FormCreate
+[22:11.49.836]  
+[22:11.49.836]  
+[22:11.49.836]  CREATING FormSessionEdit
+
+[22:11.50.367]  BEGIN FormSessionEdit.Create
+[22:11.50.445]      BEGIN TFormSessionEdit.FindIP
+[22:11.50.461]      END TFormSessionEdit.FindIP
+[22:11.50.461]      BEGIN SetupEnumAvailableComPorts
+[22:11.50.461]          SetupEnumAvailableComPorts: SetupDiClassGuidsFromName
+[22:11.50.461]          SetupEnumAvailableComPorts: SetupDiGetClassDevs
+[22:11.50.461]          SetupEnumAvailableComPorts: SetupDiEnumDeviceInfo
+[22:11.50.461]          SetupEnumAvailableComPorts: SetupDiGetDeviceRegistryProperty
+[22:11.50.461]          SetupEnumAvailableComPorts: SetupDiGetDeviceRegistryProperty
+[22:11.50.461]          SetupEnumAvailableComPorts: SetupDiEnumDeviceInfo
+[22:11.50.461]          SetupEnumAvailableComPorts: SetupDiDestroyDeviceInfoList
+[22:11.50.461]      END SetupEnumAvailableComPorts
+[22:11.50.477]  END FormSessionEdit.Create
+[22:11.50.477]  
+[22:11.50.477]  
+[22:11.50.477]  CREATING FormTransparente
+[22:11.50.477]  
+[22:11.50.477]  
+[22:11.50.477]  CREATING FormTermConfirmClose
+[22:11.50.492]  
+[22:11.50.492]  
+[22:11.50.492]  CREATING FormManagePasswords
+[22:11.50.539]  BEGIN TFormManagePasswords.FormCreate
+[22:11.50.539]  END TFormManagePasswords.FormCreate
+[22:11.50.539]  
+[22:11.50.539]  
+[22:11.50.539]  DONE CREATING FORMS
+[22:11.50.539]  
+[22:11.50.539]  
+[22:11.50.539]  
+[22:11.50.539]  
+[22:11.50.539]  BEGIN Form1.Show
+[22:11.50.539]  END Form1.Show
+[22:11.50.570]  
+[22:11.50.570]  Launching Form1.Timer1Timer
+[22:11.50.570]  
+[22:11.50.570]  
+[22:11.50.570]  
+[22:11.50.570]  
+[22:11.50.570]  ================================================================================
+[22:11.50.570]  ~    INI file content (C:\Users\User\DOCUME~1\MobaXterm\MobaXterm.ini)    ~
+[22:11.50.570]  ================================================================================
+[22:11.50.570]  
+[22:11.50.570]  
+[Misc]
+PuTTYSessionsAlreadyImported=1
+RightClickAction=0
+RightClickAssigned=1
+LastSession=18.188.56.212| #109#0%18.188.56.212%22%<default>%%-1%-1%%%22%%0%0%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%-1%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+SuperPuTTYSessionsAlreadyImported=1
+
+[Recently started]
+16=
+15=
+14=
+13=
+12=
+11=
+10=
+9=
+8=
+7=
+6=
+5=
+4=
+3=PuTTY sessions\aws_ses
+2=18.188.56.212 (sainath)
+1=18.188.56.212
+
+[WindowPos_DESKTOP-21465S8_1_1366]
+CompactMode=0
+MonitorCount=1
+Left=221
+Top=119
+Width=924
+Height=529
+Maximized=0
+SidebarVisible=1
+SidebarWidth=240
+
+[Display]
+SidebarRight=0
+C10Checked=1
+C11Checked=1
+C12Checked=1
+C13Checked=0
+C14Checked=0
+VisibleTabNum=1
+VisibleTabClose=1
+MenuAndButtons=2
+BtnType2=2
+
+[SSH]
+SFTPShowDotFiles=1
+SFTPAsciiMode=0
+
+[Bookmarks]
+SubRep=
+ImgNum=42
+18.188.56.212=#109#0%18.188.56.212%22%<default>%%-1%-1%%%22%%0%0%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%-1%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+18.188.56.212 (sainath)=#109#0%18.188.56.212%22%sainath%%-1%-1%%%22%%0%0%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+
+[Bookmarks_1]
+SubRep=PuTTY sessions
+ImgNum=63
+aws_ses=#109#0%ec2-user@ec2-3-17-193-16.us-east-2.compute.amazonaws.com%22%% %-1%-1% %%22%%0%-1%Interactive shell%D:\aws key.ppk
+
+[Bookmarks_2]
+SubRep=SuperPuTTY sessions
+ImgNum=63
+
+[Bookmarks_3]
+SubRep=SuperPuTTY sessions\ImportedFromPuTTY
+ImgNum=37
+aws_ses=#109#0%ec2-user@ec2-3-17-193-16.us-east-2.compute.amazonaws.com%22%% %-1%-1% %%22%%0%-1%Interactive shell%
+
+[LastInstanceSessions]
+0=
+1=18.188.56.212
+
+[22:11.50.570]  
+[22:11.50.570]  
+[22:11.50.570]  ================================================================================
+[22:11.50.570]  
+[22:11.50.570]  
+[22:11.50.570]  
+[22:11.50.570]  
+[22:11.50.570]  BEGIN CreerFstab
+[22:11.50.570]      CreerFstab: RootDirectory = C:/Users/User/AppData/Local/Temp/Mxt111
+[22:11.50.570]      CreerFstab: HomeDirectory = C:/Users/User/AppData/Local/Temp/Mxt111/tmp/HOME_U~1
+[22:11.50.586]  END CreerFstab
+[22:11.50.586]  BEGIN extraireFichiers1
+[22:11.50.586]      BEGIN CreerProfile
+[22:11.50.586]          !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\etc\profile". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\User\AppData\Local\Temp\Mxt111\etc\profile)
+[22:11.50.586]      END CreerProfile
+[22:11.50.586]      BEGIN CreerSshConfig
+[22:11.50.602]      END CreerSshConfig
+[22:11.50.602]      BEGIN CreerBaseProfile
+[22:11.50.602]          NEW PLUGIN: mobase
+[22:11.50.602]          BEGIN ProcessPlugin(mobase)
+[22:11.50.602]              BEGIN GetMobaseStream
+
+[22:11.51.218]              END GetMobaseStream
+[22:11.51.219]          END ProcessPlugin(mobase)
+[22:11.51.323]      END CreerBaseProfile
+[22:11.51.323]      BEGIN MkGroupFile
+[22:11.51.323]          BEGIN GetLocalGroups
+[22:11.51.340]          END GetLocalGroups
+[22:11.51.350]          SaveStringListToUnixFile(C:\Users\User\AppData\Local\Temp\Mxt111\etc\group)
+[22:11.51.366]          !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\etc\group". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\User\AppData\Local\Temp\Mxt111\etc\group)
+[22:11.51.366]          MkGroupFile OK
+[22:11.51.366]      END MkGroupFile
+[22:11.51.366]      BEGIN MkPasswdFile
+[22:11.51.366]          Current Domain: DESKTOP-21465S8
+[22:11.51.366]          BEGIN Bui_GetWindowsUsersAccount
+[22:11.51.367]          END Bui_GetWindowsUsersAccount
+[22:11.51.371]          MkPasswdFile OK
+[22:11.51.371]      END MkPasswdFile
+[22:11.51.371]      BEGIN CreerNsswitch
+[22:11.51.371]          !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\etc\nsswitch.conf". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\User\AppData\Local\Temp\Mxt111\etc\nsswitch.conf)
+[22:11.51.371]      END CreerNsswitch
+[22:11.51.371]      Request for file extraction: /bin/scrdaemons
+[22:11.51.371]      CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\tftp);
+[22:11.51.387]      CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\ftp);
+[22:11.51.387]      !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\ftp". The process cannot access the file because it is being used by another process during CreerLienSymb2
+[22:11.51.387]      CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\http);
+[22:11.51.387]      CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\ssh);
+[22:11.51.387]      !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\ssh". The process cannot access the file because it is being used by another process during CreerLienSymb2
+[22:11.51.387]      CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\telnet);
+[22:11.51.387]      CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\nfs);
+[22:11.51.387]      !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\nfs". The process cannot access the file because it is being used by another process during CreerLienSymb2
+[22:11.51.387]      CreateSymbolicLink(C:\Users\User\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\User\AppData\Local\Temp\Mxt111\etc\init.d\vnc);
+[22:11.51.387]      Request for file extraction: /bin/cygtermd.exe
+[22:11.51.387]      Request for file extraction: /bin/cygz.dll
+[22:11.51.387]      Request for file extraction: /bin/cyggcc_s-1.dll
+[22:11.51.387]      Request for file extraction: /bin/cygwin-console-helper.exe
+[22:11.51.403]      Request for file extraction: /bin/ssh.exe
+[22:11.51.403]      Request for file extraction: /etc/bash.bash_logout
+[22:11.51.403]      Request for file extraction: /etc/profile.d
+[22:11.51.403]      Request for file extraction: /etc/profile.d/*
+[22:11.51.403]      CreerRaccourciVersMobaXterm(C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaListPorts, -listports);
+[22:11.51.403]      !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaListPorts". The process cannot access the file because it is being used by another process during CreerRaccourciVersMobaXterm
+[22:11.51.403]      CreerRaccourciVersMobaXterm(C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaPictureViewer, -picview);
+[22:11.51.403]      CreerRaccourciVersMobaXterm(C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaTextEditor, -edit);
+[22:11.51.403]      !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaTextEditor". The process cannot access the file because it is being used by another process during CreerRaccourciVersMobaXterm
+[22:11.51.403]      CreerRaccourciVersMobaXterm(C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaCompareFiles, -compfiles);
+[22:11.51.418]      CreerRaccourciVersMobaXterm(C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaCompareFolders, -compfolders);
+[22:11.51.418]      !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\bin\MobaCompareFolders". The process cannot access the file because it is being used by another process during CreerRaccourciVersMobaXterm
+[22:11.51.418]      Request for file extraction: /usr/share/terminfo/78/xterm
+[22:11.51.418]      Request for file extraction: /usr/share/terminfo/63/cygwin
+[22:11.51.418]      Request for file extraction: /etc/bash_completion
+[22:11.51.418]      Request for file extraction: /usr/share/zoneinfo/posixrules
+[22:11.51.434]      File posixrules extracted successfully.
+[22:11.51.434]      Request for file extraction: /etc/inputrc
+[22:11.51.434]  END extraireFichiers1
+[22:11.51.434]  CreateSymbolicLink(/proc/registry, C:\Users\User\AppData\Local\Temp\Mxt111\registry);
+[22:11.51.434]  !!!! Exception EFCreateError: Cannot create file "C:\Users\User\AppData\Local\Temp\Mxt111\registry". The process cannot access the file because it is being used by another process during CreerLienSymb2
